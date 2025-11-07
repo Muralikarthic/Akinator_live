@@ -1,1 +1,3 @@
-cloudscraper
+streamlit==1.40.0
+akinator==1.1.1
+cloudscraper==1.2.71
